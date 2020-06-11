@@ -1,0 +1,41 @@
+.pdfpage
+{ 
+width: 1080px;
+padding-top: 80px;
+padding-bottom: 80px;
+background-color: white;
+position: relative;
+margin: auto;
+}
+.contentpage
+{
+    width: 960px;
+    position: relative;
+    margin: auto;
+}
+
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: left;
+}
+
+p
+{
+    text-align: left;
+}
+
+div
+{
+    text-align: center;
+}
+
+li 
+{
+    text-align: left;
+}
+
